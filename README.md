@@ -1,0 +1,2 @@
+# s3c2440_u_boot_learn_by_liulan
+uboot原理基础学习
